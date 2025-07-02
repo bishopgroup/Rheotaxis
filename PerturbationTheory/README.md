@@ -1,0 +1,3 @@
+- Mathematica notebook `PerturbationTheory.nb` continating derivations of the perturbation equations.
+- Python notebook `OptCrossStream.ipynb` that optimizes the cross-stream migration velocity using the perturbation analysis (Fig. 6)
+- Mathematica notebook `OptCrossStream.nb` that quantifies the designed field for robust cross-stream migration (Fig. 6).
